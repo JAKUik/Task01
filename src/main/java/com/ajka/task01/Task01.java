@@ -1,4 +1,4 @@
-package com.ajka.taskst01;
+package com.ajka.task01;
 
 /**
  *
@@ -19,7 +19,7 @@ package com.ajka.taskst01;
 
 import java.util.*;
 
-public class TasksT01 {
+public class Task01 {
 
     public static void main(String[] args) {
         Set<String> words = 
